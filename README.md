@@ -1,3 +1,3 @@
 # Website layout
-project for practicing CSS layouts
-live site: https://aboofazeli.github.io/landing_page/
+Project for practicing CSS layouts  
+Live site: https://aboofazeli.github.io/landing_page/
